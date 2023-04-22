@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Modulo de prueba 2 del PrepCourse de Henry
+Proyecto de prueba en SoyHenry PrepCourse clonar mi repositorio desde GitHub a mi escritorio local
